@@ -3,6 +3,7 @@
 
 # Steps
 ## 1 - Added folders and script files
+## 2 - Modified script files to address new raw data and to modify analysis
 
 
 # Common commands:

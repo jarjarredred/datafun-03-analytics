@@ -1,0 +1,1279 @@
+2025-05-25 19:30:16.837 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 19:30:16.837 | INFO     | __main__:main:97 - Starting CSV fetch demonstration...
+2025-05-25 19:30:16.837 | INFO     | __main__:fetch_csv_file:56 - Fetching CSV data from https://raw.githubusercontent.com/MainakRepositor/Datasets/master/World%20Happiness%20Data/2020.csv...
+2025-05-25 19:30:17.174 | INFO     | __main__:write_csv_file:80 - Writing CSV data to example_data\2020_happiness.csv...
+2025-05-25 19:30:17.175 | INFO     | __main__:write_csv_file:84 - SUCCESS: CSV data written to example_data\2020_happiness.csv
+2025-05-25 19:30:17.176 | INFO     | __main__:fetch_csv_file:60 - SUCCESS: CSV file fetched and saved as 2020_happiness.csv
+2025-05-25 19:33:57.236 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 19:33:57.236 | INFO     | __main__:main:97 - Starting CSV fetch demonstration...
+2025-05-25 19:33:57.236 | INFO     | __main__:fetch_csv_file:56 - Fetching CSV data from https://www.stlouis-mo.gov/customcf/endpoints/arpa/projects.cfm?topicID=0&format=csv...
+2025-05-25 19:33:59.001 | INFO     | __main__:write_csv_file:80 - Writing CSV data to example_data\arpa_projects.csv...
+2025-05-25 19:35:20.617 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 19:35:20.618 | INFO     | __main__:main:97 - Starting CSV fetch demonstration...
+2025-05-25 19:35:20.618 | INFO     | __main__:fetch_csv_file:56 - Fetching CSV data from https://www.stlouis-mo.gov/customcf/endpoints/arpa/expenditures.cfm?format=csv...
+2025-05-25 19:35:22.269 | INFO     | __main__:write_csv_file:80 - Writing CSV data to example_data\arpa_expenditures.csv...
+2025-05-25 19:35:22.281 | INFO     | __main__:write_csv_file:84 - SUCCESS: CSV data written to example_data\arpa_expenditures.csv
+2025-05-25 19:35:22.282 | INFO     | __main__:fetch_csv_file:60 - SUCCESS: CSV file fetched and saved as arpa_expenditures.csv
+2025-05-25 19:41:35.569 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 19:41:35.570 | INFO     | __main__:main:97 - Starting CSV fetch demonstration...
+2025-05-25 19:41:35.570 | INFO     | __main__:fetch_csv_file:56 - Fetching CSV data from https://www.stlouis-mo.gov/data/upload/data-files/health/animal-bites.csv...
+2025-05-25 19:41:37.138 | INFO     | __main__:write_csv_file:80 - Writing CSV data to example_data\animal_bites.csv...
+2025-05-25 19:41:37.143 | INFO     | __main__:write_csv_file:84 - SUCCESS: CSV data written to example_data\animal_bites.csv
+2025-05-25 19:41:37.143 | INFO     | __main__:fetch_csv_file:60 - SUCCESS: CSV file fetched and saved as animal_bites.csv
+2025-05-25 20:11:49.642 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 20:11:49.642 | INFO     | __main__:<module>:101 - Starting CSV processing...
+2025-05-25 20:11:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:11:49.662 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:11:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.665 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.669 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.670 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value: a (could not convert string to float: 'a')
+2025-05-25 20:11:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.673 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:11:49.673 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.673 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.674 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.682 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.683 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.683 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.683 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.683 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.683 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:11:49.683 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.683 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:11:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:11:49.685 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.685 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.685 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.685 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.685 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.687 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.687 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.687 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.687 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.687 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.687 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.688 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.689 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:11:49.690 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.690 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.690 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:11:49.690 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.690 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.691 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.691 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:11:49.691 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:11:49.691 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.693 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:11:49.693 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.696 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:11:49.697 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.697 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.698 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.698 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.699 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.700 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:11:49.700 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.702 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.702 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.703 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.703 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.704 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.705 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.706 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.708 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.709 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.710 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.710 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.710 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.712 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:11:49.713 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 0
+2025-05-25 20:11:49.714 | INFO     | __main__:process_csv_file:94 - Processed CSV file: example_data\animal_bites.csv, Statistics saved to: example_processed\animal_bites_stats.txt
+2025-05-25 20:11:49.714 | INFO     | __main__:<module>:103 - CSV processing complete.
+2025-05-25 20:20:49.646 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 20:20:49.646 | INFO     | __main__:<module>:101 - Starting CSV processing...
+2025-05-25 20:20:49.647 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.647 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.647 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.647 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.647 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.648 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.649 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.650 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.651 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.651 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.651 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.651 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.651 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.651 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.652 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.653 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.654 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.655 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.656 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.657 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.657 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.658 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.659 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.660 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value: a (could not convert string to float: 'a')
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.661 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:20:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.662 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.662 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.663 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:20:49.663 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.664 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.665 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.666 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.667 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.668 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.669 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.670 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.671 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.672 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.673 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:20:49.673 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:20:49.673 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.673 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.673 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.673 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.674 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.675 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:20:49.676 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:20:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:20:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.677 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.678 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:20:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:20:49.679 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.680 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:20:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.681 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:20:49.681 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.682 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.682 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.682 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.683 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.684 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:20:49.684 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.684 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.684 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.685 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.685 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.685 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.686 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.687 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.688 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.688 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.689 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.689 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.689 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.691 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:20:49.692 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 0
+2025-05-25 20:20:49.693 | INFO     | __main__:process_csv_file:94 - Processed CSV file: example_data\animal_bites.csv, Statistics saved to: example_processed\animal_bites_stats.txt
+2025-05-25 20:20:49.693 | INFO     | __main__:<module>:103 - CSV processing complete.
+2025-05-25 20:21:09.569 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 20:21:09.569 | INFO     | __main__:<module>:101 - Starting CSV processing...
+2025-05-25 20:21:09.569 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.569 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.570 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.570 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.570 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.570 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.570 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.571 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.572 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.573 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.574 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.574 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.574 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.574 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.574 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.574 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.575 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.576 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.577 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.578 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:21:09.578 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.578 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.578 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.578 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.578 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.578 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.579 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.579 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.579 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.579 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.579 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.579 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.579 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.580 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.581 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.582 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.582 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.582 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.582 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.582 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.582 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.583 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.583 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.583 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.583 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.583 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.583 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.583 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value: a (could not convert string to float: 'a')
+2025-05-25 20:21:09.584 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.585 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.586 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.587 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.588 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.588 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.588 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.588 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.588 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.588 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.588 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.589 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.589 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.589 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.589 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.589 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.589 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.589 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.590 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.591 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.592 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.593 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.594 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:21:09.595 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.596 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:21:09.597 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.598 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:21:09.599 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.599 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:21:09.599 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.599 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.599 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:21:09.599 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.599 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.601 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.601 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:21:09.601 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:21:09.601 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.602 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:21:09.603 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.603 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:21:09.604 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.604 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.605 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.605 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.606 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.607 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:21:09.607 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.607 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.607 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.608 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.608 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.608 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.609 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.610 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.611 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.612 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.612 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.612 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.612 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.614 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:21:09.615 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 0
+2025-05-25 20:21:09.616 | INFO     | __main__:process_csv_file:94 - Processed CSV file: example_data\animal_bites.csv, Statistics saved to: example_processed\animal_bites_stats.txt
+2025-05-25 20:21:09.616 | INFO     | __main__:<module>:103 - CSV processing complete.
+2025-05-25 20:24:21.445 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 20:24:21.445 | INFO     | __main__:<module>:101 - Starting CSV processing...
+2025-05-25 20:24:21.446 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.446 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.446 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.446 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.446 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.446 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.447 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.448 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.449 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.449 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.449 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.449 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.449 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.449 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.449 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.450 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.451 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.451 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.451 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.451 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.451 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.452 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.452 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.452 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.452 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.453 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.453 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.453 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.453 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.453 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.454 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.454 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.454 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.454 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.454 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.454 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.455 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.455 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.455 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.455 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.455 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.456 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.456 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.456 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.456 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.456 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.456 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.457 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.457 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:24:21.457 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.457 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.457 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.457 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.459 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.459 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.459 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.459 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.459 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.460 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.460 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.460 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.460 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:24:21.460 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.460 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.461 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.463 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.463 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.463 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.463 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.463 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.463 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.464 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.464 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.464 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.464 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.464 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.465 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.466 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value: a (could not convert string to float: 'a')
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:24:21.467 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.468 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.469 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.470 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.471 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.472 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.473 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.474 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.475 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.475 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.475 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.475 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.475 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.475 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.475 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.476 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 19
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.477 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.478 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.478 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.478 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.478 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.478 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 20
+2025-05-25 20:24:21.478 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 26
+2025-05-25 20:24:21.478 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.479 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 15
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.480 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 18
+2025-05-25 20:24:21.481 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.481 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.481 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.481 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 16
+2025-05-25 20:24:21.481 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.481 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.481 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.482 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.482 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 28
+2025-05-25 20:24:21.482 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.482 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 27
+2025-05-25 20:24:21.482 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.482 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.482 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 21
+2025-05-25 20:24:21.483 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.483 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.484 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.484 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 24
+2025-05-25 20:24:21.484 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 25
+2025-05-25 20:24:21.484 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.486 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 22
+2025-05-25 20:24:21.486 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.486 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 17
+2025-05-25 20:24:21.487 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.487 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.488 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.490 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.491 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.492 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 23
+2025-05-25 20:24:21.492 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.492 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.492 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.493 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.493 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.493 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.495 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.495 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.497 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.497 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.499 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.499 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.500 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.502 | WARNING  | __main__:analyze_by_ward:51 - Skipping row due to invalid WARD value:  (could not convert string to float: '')
+2025-05-25 20:24:21.503 | WARNING  | __main__:analyze_by_ward:49 - Ward number out of expected range (1-14): 0
+2025-05-25 20:24:21.505 | INFO     | __main__:process_csv_file:94 - Processed CSV file: example_data\animal_bites.csv, Statistics saved to: example_processed\animal_bites_stats.txt
+2025-05-25 20:24:21.505 | INFO     | __main__:<module>:103 - CSV processing complete.
+2025-05-25 20:26:47.522 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 20:26:47.524 | INFO     | __main__:main:97 - Starting Excel fetch demonstration...
+2025-05-25 20:26:47.524 | INFO     | __main__:fetch_excel_file:56 - Fetching Excel data from https://raw.githubusercontent.com/denisecase/datafun-03-analytics/main/hosted/Feedback.xlsx...
+2025-05-25 20:26:47.811 | INFO     | __main__:write_excel_file:80 - Writing Excel data to example_data\Feedback.xlsx...
+2025-05-25 20:26:47.812 | INFO     | __main__:write_excel_file:84 - SUCCESS: Excel data written to example_data\Feedback.xlsx
+2025-05-25 20:26:47.812 | INFO     | __main__:fetch_excel_file:60 - SUCCESS: Excel file fetched and saved as Feedback.xlsx
+2025-05-25 20:27:16.338 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 20:27:16.339 | INFO     | __main__:<module>:87 - Starting CSV processing...
+2025-05-25 20:27:16.352 | WARNING  | __main__:analyze_by_ward:46 - Skipping row 4007 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:16.353 | WARNING  | __main__:analyze_by_ward:46 - Skipping row 4465 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:16.355 | WARNING  | __main__:analyze_by_ward:46 - Skipping row 4611 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:16.356 | WARNING  | __main__:analyze_by_ward:46 - Skipping row 4623 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:16.356 | WARNING  | __main__:analyze_by_ward:46 - Skipping row 4625 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:16.356 | WARNING  | __main__:analyze_by_ward:46 - Skipping row 4688 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:16.359 | WARNING  | __main__:analyze_by_ward:46 - Skipping row 5391 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:16.360 | WARNING  | __main__:analyze_by_ward:44 - Ward number out of expected range (1-14) at row 5516: 0
+2025-05-25 20:27:16.360 | INFO     | __main__:analyze_by_ward:50 - Finished reading file. Total rows processed (after 3900): 1698
+2025-05-25 20:27:16.361 | INFO     | __main__:analyze_by_ward:51 - Total wards collected: 1690
+2025-05-25 20:27:39.843 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 20:27:39.843 | INFO     | __main__:<module>:109 - Starting CSV processing...
+2025-05-25 20:27:39.854 | WARNING  | __main__:analyze_by_ward:61 - Skipping row 4007 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:39.856 | WARNING  | __main__:analyze_by_ward:61 - Skipping row 4465 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:39.857 | WARNING  | __main__:analyze_by_ward:61 - Skipping row 4611 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:39.857 | WARNING  | __main__:analyze_by_ward:61 - Skipping row 4623 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:39.857 | WARNING  | __main__:analyze_by_ward:61 - Skipping row 4625 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:39.858 | WARNING  | __main__:analyze_by_ward:61 - Skipping row 4688 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:39.860 | WARNING  | __main__:analyze_by_ward:61 - Skipping row 5391 due to invalid WARD value: '' (could not convert string to float: '')
+2025-05-25 20:27:39.860 | WARNING  | __main__:analyze_by_ward:59 - Ward number out of expected range (1-14) at row 5516: 0
+2025-05-25 20:27:39.866 | INFO     | __main__:process_csv_file:102 - Processed CSV file: example_data\animal_bites.csv, Statistics saved to: example_processed\animal_bites_stats.txt
+2025-05-25 20:27:39.866 | INFO     | __main__:<module>:111 - CSV processing complete.
+2025-05-25 21:05:45.272 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 21:05:45.272 | INFO     | __main__:main:96 - Starting JSON fetch demonstration...
+2025-05-25 21:05:45.272 | INFO     | __main__:fetch_json_file:55 - Fetching JSON data from http://api.open-notify.org/astros.json...
+2025-05-25 21:05:45.528 | INFO     | __main__:write_json_file:79 - Writing JSON data to example_data\astros.json...
+2025-05-25 21:05:45.529 | INFO     | __main__:write_json_file:83 - SUCCESS: JSON data written to example_data\astros.json
+2025-05-25 21:05:45.529 | INFO     | __main__:fetch_json_file:59 - SUCCESS: JSON file fetched and saved as astros.json
+2025-05-25 21:05:52.016 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 21:05:52.028 | INFO     | __main__:main:97 - Starting text fetch demonstration...
+2025-05-25 21:05:52.028 | INFO     | __main__:fetch_txt_file:56 - Fetching text data from https://raw.githubusercontent.com/denisecase/datafun-03-analytics/main/hosted/romeo.txt...
+2025-05-25 21:05:52.458 | INFO     | __main__:write_txt_file:80 - Writing data to example_data\romeo.txt...
+2025-05-25 21:05:52.459 | INFO     | __main__:write_txt_file:84 - SUCCESS: Data written to example_data\romeo.txt
+2025-05-25 21:05:52.460 | INFO     | __main__:fetch_txt_file:60 - SUCCESS: Text file fetched and saved as romeo.txt
+2025-05-25 21:10:59.275 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 21:10:59.275 | INFO     | __main__:<module>:82 - Starting Excel processing...
+2025-05-25 21:10:59.298 | INFO     | __main__:process_excel_file:75 - Processed Excel file: example_data\Feedback.xlsx, Word count saved to: example_processed\excel_feedback_github_count.txt
+2025-05-25 21:10:59.298 | INFO     | __main__:<module>:84 - Excel processing complete.
+2025-05-25 22:01:31.359 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:01:31.359 | INFO     | __main__:<module>:118 - Starting JSON processing...
+2025-05-25 22:01:31.367 | INFO     | __main__:process_json_file:111 - Processed JSON file: example_data\astros.json, Results saved to: example_processed\json_astronauts_by_craft.txt
+2025-05-25 22:01:31.367 | INFO     | __main__:<module>:120 - JSON processing complete.
+2025-05-25 22:01:40.250 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:01:40.250 | INFO     | __main__:<module>:72 - Starting text processing...
+2025-05-25 22:01:40.274 | INFO     | __main__:process_text_file:65 - Processed text file: example_data\romeo.txt, Word count saved to: example_processed\text_romeo_word_count.txt
+2025-05-25 22:01:40.274 | INFO     | __main__:<module>:74 - Text processing complete.
+2025-05-25 22:03:58.859 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:03:58.859 | INFO     | __main__:main:96 - Starting JSON fetch demonstration...
+2025-05-25 22:03:58.859 | INFO     | __main__:fetch_json_file:55 - Fetching JSON data from https://www.stlouis-mo.gov/customcf/endpoints/monarchs/milkweed-gardens-data.cfm?format=json...
+2025-05-25 22:04:07.483 | INFO     | __main__:write_json_file:79 - Writing JSON data to example_data\monarchs.json...
+2025-05-25 22:04:07.497 | INFO     | __main__:write_json_file:83 - SUCCESS: JSON data written to example_data\monarchs.json
+2025-05-25 22:04:07.497 | INFO     | __main__:fetch_json_file:59 - SUCCESS: JSON file fetched and saved as monarchs.json
+2025-05-25 22:24:29.188 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:24:29.189 | INFO     | __main__:<module>:159 - Starting JSON processing...
+2025-05-25 22:24:29.189 | ERROR    | __main__:count_milkweed_by_ward:117 - Error: JSON file not found at example_data\milkweed_projects_data.json
+2025-05-25 22:24:29.189 | INFO     | __main__:process_json_file:152 - Processed JSON file: example_data\milkweed_projects_data.json, Results saved to: example_processed\json_milkweed_by_ward_counts.txt
+2025-05-25 22:24:29.189 | INFO     | __main__:<module>:161 - JSON processing complete.
+2025-05-25 22:26:05.949 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:26:05.949 | INFO     | __main__:<module>:159 - Starting JSON processing...
+2025-05-25 22:26:05.951 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '4950', 'STREETPREFIX': '', 'STREET': 'WISE', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63110', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'October, 26 2013 00:00:00', 'DESCRIPTION': '90 ft by 14 ft. Our garden has approximately 230 plants and contains Butterfly Milkweed, Blue False Indigo, Karl Foerster grass, Blue Zinger, Purple Coneflower, Little Joe Pyeweed, Blazing Star, Grey Headed Coneflower, Prairie Dropseed', 'MILKWEED': True, 'IMAGELOCATION': 'DSC02872.jpg', 'RECORDNO': 144, 'HANDLE': '13996000300', 'POINTX': 886779, 'POINTY': 1016969, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.952 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '2223', 'STREETPREFIX': '', 'STREET': 'PARK', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63104', 'NEIGHBORHOOD': 'Lafayette Square', 'PLANTINGDATE': 'January, 04 2014 00:00:00', 'DESCRIPTION': '30-50 Milkweed plant seedlings (still very, very small). Some other plants (120, all native MO) from a local grower in Jefferson City.', 'MILKWEED': True, 'IMAGELOCATION': '', 'RECORDNO': 117, 'HANDLE': '12266000025', 'POINTX': 900965, 'POINTY': 1014174, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.952 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '1200', 'STREETPREFIX': '', 'STREET': 'MARKET', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63103', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'April, 22 2014 00:00:00', 'DESCRIPTION': 'The garden is approximately 30 sq. feet and includes butterfly milkweed, marsh milkweed, whorled milkweed, common milkweed, coreopsis, purple coneflower, bee balm, black-eyed susan, anise hyssop, New England Aster', 'MILKWEED': True, 'IMAGELOCATION': 'City Hall(2).JPG', 'RECORDNO': 336, 'HANDLE': '10207000015', 'POINTX': 905869, 'POINTY': 1017125, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.952 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '1931', 'STREETPREFIX': '', 'STREET': 'PRESIDENT', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63118', 'NEIGHBORHOOD': 'Marine Villa', 'PLANTINGDATE': 'June, 14 2014 00:00:00', 'DESCRIPTION': "On June 14, 2014, I added milkweed and other plants to an existing butterfly garden. Approximate size is 9' x 12' with 6 milkweed plants: 3 butterfly weed, 2 tropical milkweed and 1 asclepias viridis. Nectar plants include: 4 coneflower, 2 black eyed susan, 3 blazing star, 3 native asters, 3 sedum, 1 agastache, 1 ironweed and 3 phlox.", 'MILKWEED': True, 'IMAGELOCATION': 'IMG_20140620_081542_190.jpg', 'RECORDNO': 73, 'HANDLE': '11549000060', 'POINTX': 900160, 'POINTY': 1003985, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.952 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '4253', 'STREETPREFIX': '', 'STREET': 'MAGNOLIA', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63110', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'April, 27 2015 00:00:00', 'DESCRIPTION': 'size will be approx 12 square feet, with 12 plants using milkweed varieties and nectar producing flowers', 'MILKWEED': True, 'IMAGELOCATION': None, 'RECORDNO': 160, 'HANDLE': '14930000340', 'POINTX': 889757, 'POINTY': 1010775, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.952 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '2421', 'STREETPREFIX': 'S', 'STREET': '10TH', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63104', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'May, 26 2015 00:00:00', 'DESCRIPTION': 'Our bed is four feet by four feet square and contains both common and one other variety.', 'MILKWEED': True, 'IMAGELOCATION': 'IMG_2132.JPG', 'RECORDNO': 259, 'HANDLE': '10815000150', 'POINTX': 903421, 'POINTY': 1008362, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.952 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '8221', 'STREETPREFIX': '', 'STREET': 'MINNESOTA', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63111', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'August, 03 2015 00:00:00', 'DESCRIPTION': '2 Triangular planter boxes 4\'x6" ', 'MILKWEED': True, 'IMAGELOCATION': 'Carondelet1.JPG', 'RECORDNO': 297, 'HANDLE': '13209000011', 'POINTX': 887252, 'POINTY': 987033, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.952 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '5654', 'STREETPREFIX': '', 'STREET': 'MAPLE', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63112', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'October, 10 2015 00:00:00', 'DESCRIPTION': "This south side Maple Ave Garden is a shared Garden with the 5655 Maple north side garden than borders Maple Ave. \n\nThe following information covers both gardens:\nPlants: 275 sq ft (25.5 sq meter) in three plots (two @ 25' x 25' and 5' x 5') containing 10 Butterfly milkweed, 16 Swamp/Marsh milkweed, 4 Whorled milkweed, 16 Purple coneflower, 9 Orange coneflower, 8 Bee balm, 4 MO black-eyed Susan, 4 Rose Verbena, 8 Missouri primrose; 12 Royal catchfly will be added in the Spring. The beds originally contained 6 Purple coneflowers; and Prairie Dropseed that were removed. Three other plots 465 sq ft (43.1 sq meter; 29' x 5', 23' x 5' and 41' x 5') remain to be planted when additional plants are sourced, so remaining Prairie Dropseed can be removed. If possible, i'd like two Garden Signs since our garden plots are on two sides of Maple Ave, and they cover an area extending 70' on each side.", 'MILKWEED': True, 'IMAGELOCATION': None, 'RECORDNO': 302, 'HANDLE': '12991040170', 'POINTX': 882084, 'POINTY': 1029390, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.953 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '3964', 'STREETPREFIX': '', 'STREET': 'CASTLEMAN', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63110', 'NEIGHBORHOOD': 'Shaw', 'PLANTINGDATE': 'October, 10 2015 00:00:00', 'DESCRIPTION': '750 sq ft\n15\tapu\tAsclepias purpurascens\tPurple Milkweed\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n5\tasy\tAsclepias syriaca\tCommon Milkweed\tSP#4 (1 qt.) cont.\t30" o.c.\tMO genotype\t \t \t \n15\tatu\tAsclepias tuberosa\tButterfly Milkweed\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n5\tala\tAster laevis\tSmooth Aster\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n10\tepa\tEchinacea palladia\tPale Purple Coneflower\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n10\tep\tEchinacea purpurea\tPurple Coneflower\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n5\teyu\tEryngium yuccifolium\tRattlesnake Master\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n10\tlas\tLiatris aspera\tRough Blazing Star\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n10\tpte\tPycnanthemum tenuifolium\tSlender Mountain Mint\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n10\trmi\tRudbeckia missouriensis\tMissouri Orange Coneflower\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n10\tsdr\tSolidago drummondii\tCliff Goldenrod\tSP#4 (1 qt.) cont.\t18" o.c.\tMO genotype\t \t \t \n36\tssp\tSchizachyrium scoparium \tLittle Bluestem\tSP#4 (1 qt.) cont.\t18\' o.c.\tMO genotype\t \t \t \n54\tshe\tSporobolus heterolepis\tPrairie Dropseed\t#1 (1 gal.) cont.\t24" o.c.\tMO genotype\t\n\n10\tpcu\tBouteloua curtipendula\tSideoats Grama            \t(1 qt.) cont.\t18" o.c.\tMO genotype\n', 'MILKWEED': True, 'IMAGELOCATION': 'pink nector.jpg', 'RECORDNO': 393, 'HANDLE': '14945000015', 'POINTX': 892345, 'POINTY': 1012797, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.953 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '4101', 'STREETPREFIX': '', 'STREET': 'WEST PINE', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63108', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'October, 17 2015 00:00:00', 'DESCRIPTION': '6 Butterfly milkweed\n6 Swamp/Marsh milkweed\n6 Whorled milkweed\n12 Purple coneflower\n6 Orange coneflower\n6 Bee balm\n6 MO black-eyed Susan\n6 Cliff goldenrod\n6 New England aster\n', 'MILKWEED': True, 'IMAGELOCATION': 'IMG_4842.jpg', 'RECORDNO': 310, 'HANDLE': '13914000610', 'POINTX': 892641, 'POINTY': 1021565, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.953 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '1401', 'STREETPREFIX': '', 'STREET': 'CLARK', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63103', 'NEIGHBORHOOD': 'Downtown West', 'PLANTINGDATE': 'June, 06 2016 00:00:00', 'DESCRIPTION': '', 'MILKWEED': True, 'IMAGELOCATION': None, 'RECORDNO': 431, 'HANDLE': '10209000025', 'POINTX': 905165, 'POINTY': 1017076, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.953 | WARNING  | __main__:count_milkweed_by_ward:103 - Skipping milkweed project as 'WARD' key not found or is null in: {'ADDRESSNUMBER': '2838', 'STREETPREFIX': '', 'STREET': 'MARKET', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63103', 'NEIGHBORHOOD': 'Midtown', 'PLANTINGDATE': 'October, 05 2019 00:00:00', 'DESCRIPTION': '', 'MILKWEED': True, 'IMAGELOCATION': None, 'RECORDNO': 538, 'HANDLE': '11720000010', 'POINTX': 899872, 'POINTY': 1018576, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:26:05.954 | INFO     | __main__:process_json_file:152 - Processed JSON file: example_data\monarchs.json, Results saved to: example_processed\json_milkweed_by_ward_counts.txt
+2025-05-25 22:26:05.954 | INFO     | __main__:<module>:161 - JSON processing complete.
+2025-05-25 22:27:53.144 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:27:53.144 | INFO     | __main__:<module>:178 - Starting JSON processing...
+2025-05-25 22:27:53.145 | ERROR    | __main__:count_milkweed_by_neighborhood:136 - Error: JSON file not found at example_data\milkweed_projects_data.json
+2025-05-25 22:27:53.145 | INFO     | __main__:process_json_file:171 - Processed JSON file: example_data\milkweed_projects_data.json, Results saved to: example_processed\json_milkweed_by_neighborhood_counts.txt
+2025-05-25 22:27:53.145 | INFO     | __main__:<module>:180 - JSON processing complete.
+2025-05-25 22:28:18.354 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:28:18.354 | INFO     | __main__:<module>:178 - Starting JSON processing...
+2025-05-25 22:28:18.356 | WARNING  | __main__:count_milkweed_by_neighborhood:122 - Skipping milkweed project due to invalid/missing NEIGHBORHOOD value: '' in {'ADDRESSNUMBER': '4950', 'STREETPREFIX': '', 'STREET': 'WISE', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63110', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'October, 26 2013 00:00:00', 'DESCRIPTION': '90 ft by 14 ft. Our garden has approximately 230 plants and contains Butterfly Milkweed, Blue False Indigo, Karl Foerster grass, Blue Zinger, Purple Coneflower, Little Joe Pyeweed, Blazing Star, Grey Headed Coneflower, Prairie Dropseed', 'MILKWEED': True, 'IMAGELOCATION': 'DSC02872.jpg', 'RECORDNO': 144, 'HANDLE': '13996000300', 'POINTX': 886779, 'POINTY': 1016969, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:28:18.357 | WARNING  | __main__:count_milkweed_by_neighborhood:122 - Skipping milkweed project due to invalid/missing NEIGHBORHOOD value: '' in {'ADDRESSNUMBER': '1200', 'STREETPREFIX': '', 'STREET': 'MARKET', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63103', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'April, 22 2014 00:00:00', 'DESCRIPTION': 'The garden is approximately 30 sq. feet and includes butterfly milkweed, marsh milkweed, whorled milkweed, common milkweed, coreopsis, purple coneflower, bee balm, black-eyed susan, anise hyssop, New England Aster', 'MILKWEED': True, 'IMAGELOCATION': 'City Hall(2).JPG', 'RECORDNO': 336, 'HANDLE': '10207000015', 'POINTX': 905869, 'POINTY': 1017125, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:28:18.357 | WARNING  | __main__:count_milkweed_by_neighborhood:122 - Skipping milkweed project due to invalid/missing NEIGHBORHOOD value: '' in {'ADDRESSNUMBER': '4253', 'STREETPREFIX': '', 'STREET': 'MAGNOLIA', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63110', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'April, 27 2015 00:00:00', 'DESCRIPTION': 'size will be approx 12 square feet, with 12 plants using milkweed varieties and nectar producing flowers', 'MILKWEED': True, 'IMAGELOCATION': None, 'RECORDNO': 160, 'HANDLE': '14930000340', 'POINTX': 889757, 'POINTY': 1010775, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:28:18.357 | WARNING  | __main__:count_milkweed_by_neighborhood:122 - Skipping milkweed project due to invalid/missing NEIGHBORHOOD value: '' in {'ADDRESSNUMBER': '2421', 'STREETPREFIX': 'S', 'STREET': '10TH', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63104', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'May, 26 2015 00:00:00', 'DESCRIPTION': 'Our bed is four feet by four feet square and contains both common and one other variety.', 'MILKWEED': True, 'IMAGELOCATION': 'IMG_2132.JPG', 'RECORDNO': 259, 'HANDLE': '10815000150', 'POINTX': 903421, 'POINTY': 1008362, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:28:18.357 | WARNING  | __main__:count_milkweed_by_neighborhood:122 - Skipping milkweed project due to invalid/missing NEIGHBORHOOD value: '' in {'ADDRESSNUMBER': '8221', 'STREETPREFIX': '', 'STREET': 'MINNESOTA', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63111', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'August, 03 2015 00:00:00', 'DESCRIPTION': '2 Triangular planter boxes 4\'x6" ', 'MILKWEED': True, 'IMAGELOCATION': 'Carondelet1.JPG', 'RECORDNO': 297, 'HANDLE': '13209000011', 'POINTX': 887252, 'POINTY': 987033, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:28:18.357 | WARNING  | __main__:count_milkweed_by_neighborhood:122 - Skipping milkweed project due to invalid/missing NEIGHBORHOOD value: '' in {'ADDRESSNUMBER': '5654', 'STREETPREFIX': '', 'STREET': 'MAPLE', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63112', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'October, 10 2015 00:00:00', 'DESCRIPTION': "This south side Maple Ave Garden is a shared Garden with the 5655 Maple north side garden than borders Maple Ave. \n\nThe following information covers both gardens:\nPlants: 275 sq ft (25.5 sq meter) in three plots (two @ 25' x 25' and 5' x 5') containing 10 Butterfly milkweed, 16 Swamp/Marsh milkweed, 4 Whorled milkweed, 16 Purple coneflower, 9 Orange coneflower, 8 Bee balm, 4 MO black-eyed Susan, 4 Rose Verbena, 8 Missouri primrose; 12 Royal catchfly will be added in the Spring. The beds originally contained 6 Purple coneflowers; and Prairie Dropseed that were removed. Three other plots 465 sq ft (43.1 sq meter; 29' x 5', 23' x 5' and 41' x 5') remain to be planted when additional plants are sourced, so remaining Prairie Dropseed can be removed. If possible, i'd like two Garden Signs since our garden plots are on two sides of Maple Ave, and they cover an area extending 70' on each side.", 'MILKWEED': True, 'IMAGELOCATION': None, 'RECORDNO': 302, 'HANDLE': '12991040170', 'POINTX': 882084, 'POINTY': 1029390, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:28:18.357 | WARNING  | __main__:count_milkweed_by_neighborhood:122 - Skipping milkweed project due to invalid/missing NEIGHBORHOOD value: '' in {'ADDRESSNUMBER': '4101', 'STREETPREFIX': '', 'STREET': 'WEST PINE', 'STREETSUFFIX': '', 'CITY': 'ST. Louis', 'ZIPCODE': '63108', 'NEIGHBORHOOD': '', 'PLANTINGDATE': 'October, 17 2015 00:00:00', 'DESCRIPTION': '6 Butterfly milkweed\n6 Swamp/Marsh milkweed\n6 Whorled milkweed\n12 Purple coneflower\n6 Orange coneflower\n6 Bee balm\n6 MO black-eyed Susan\n6 Cliff goldenrod\n6 New England aster\n', 'MILKWEED': True, 'IMAGELOCATION': 'IMG_4842.jpg', 'RECORDNO': 310, 'HANDLE': '13914000610', 'POINTX': 892641, 'POINTY': 1021565, 'WARD': None, 'SITEADDRESS': None, 'NECTARSOURCE': True}
+2025-05-25 22:28:18.358 | INFO     | __main__:process_json_file:171 - Processed JSON file: example_data\monarchs.json, Results saved to: example_processed\json_milkweed_by_neighborhood_counts.txt
+2025-05-25 22:28:18.358 | INFO     | __main__:<module>:180 - JSON processing complete.
+2025-05-25 22:42:44.441 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:42:44.441 | INFO     | __main__:<module>:78 - Starting Excel processing...
+2025-05-25 22:42:44.455 | INFO     | __main__:process_excel_file:71 - Processed Excel file: example_data\Feedback.xlsx, Word count saved to: example_processed\excel_feedback_github_count.txt
+2025-05-25 22:42:44.455 | INFO     | __main__:<module>:80 - Excel processing complete.
+2025-05-25 22:44:48.215 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-25 22:44:48.215 | INFO     | __main__:<module>:71 - Starting text processing...
+2025-05-25 22:44:48.217 | INFO     | __main__:process_text_file:64 - Processed text file: example_data\romeo.txt, Word count saved to: example_processed\text_juliet_word_count.txt
+2025-05-25 22:44:48.217 | INFO     | __main__:<module>:73 - Text processing complete.

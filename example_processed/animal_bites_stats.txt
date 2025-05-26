@@ -1,0 +1,15 @@
+Animal Bites by Ward (Least to Greatest, from row 3901 onwards):
+Ward 10: 78 bites
+Ward 9: 82 bites
+Ward 14: 87 bites
+Ward 11: 89 bites
+Ward 12: 105 bites
+Ward 2: 112 bites
+Ward 13: 114 bites
+Ward 8: 124 bites
+Ward 7: 130 bites
+Ward 3: 134 bites
+Ward 5: 137 bites
+Ward 6: 137 bites
+Ward 1: 161 bites
+Ward 4: 200 bites
